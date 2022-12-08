@@ -1,0 +1,13 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: Crawling_Website
+- file: Ekstraksi_Ringkasan_Dokumen
+- file: Ensemble_Learning
+- file: Klasifikasi_Clustering
+- file: Topik_Modelling
+- file: UTS_PPW
+
