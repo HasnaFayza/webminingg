@@ -1,0 +1,101 @@
+tweet,polarity_score,label
+"['anies', 'tantang', 'said']",-4,kontra
+[],0,netral
+"['kode', 'opung', 'luhut', 'calon', 'presiden', 'acara', 'kib', 'pimpin', 'airlangga', 'hartarto', 'gimana', 'arti', 'kode', 'opung']",-2,kontra
+"['rocky', 'gerung', 'bicara', 'langsung', 'perintah', 'jokowi', 'amat', 'politik', 'rocky', 'gerung', 'dapat', 'perintah', 'era', 'presiden', 'jokowi', 'turut', 'presiden']",9,pro
+[],0,netral
+"['rgtv', 'channel', 'id', 'ajak']",1,pro
+"['wali', 'kota', 'solo', 'gibran', 'rakabuming', 'raka', 'aku', 'terima', 'kritik', 'amat', 'politik', 'rocky', 'gerung', 'temu', 'tweet']",4,pro
+"['sekolah', 'tanda', 'ajar', 'bom', 'pikir']",-2,kontra
+"['quote', 'gibran', 'kalang', 'istana', 'telepon', 'gibran', 'ken', 'kunjung', 'sila', 'kunjung', 'bicara', 'ucap', 'publik', 'sisi', 'ekonomi', 'politik']",-5,kontra
+"['kritik', 'habis', 'rocky', 'gerung', 'gibran', 'sadar', 'ajar', 'tweet']",-6,kontra
+"['gibran', 'kritik', 'rocky', 'gerung', 'otak', 'kosong', 'dungu', 'wali', 'kota', 'solo', 'gibran', 'rakabuming', 'aku', 'kritik', 'rocky', 'gerung', 'tandang', 'diam', 'amat', 'politik']",-17,kontra
+"['gibran', 'rocky', 'gerung', 'orang', 'jenius', 'masuk', 'solo', 'baca', 'lengkap']",0,netral
+"['gibran', 'rocky', 'gerung', 'temu', 'bahas', 'dungudunguan']",4,pro
+"['saksi', 'lengkap', 'youtube', 'rgtv', 'channel', 'id', 'temu', 'link']",2,pro
+"['gibran', 'rakabuming', 'aku', 'semprot', 'habis', 'rocky', 'gerung', 'otak', 'kosong', 'dungu', 'bahas']",-11,kontra
+"['presiden', 'xi', 'jinping', 'kudeta', 'dampak', 'indonesia']",0,netral
+[],0,netral
+"['tantang', 'juara', 'kelas', 'terbang', 'one', 'pride', 'mma', 'indonesia', 'rocky', 'gerung', 'dukung', 'tarung', 'ring', 'id']",-6,kontra
+"['duel', 'sengit', 'rocky', 'gerung', 'tantang', 'sandang', 'juara', 'kelas', 'terbang', 'one', 'pride', 'mma', 'indonesia', 'menang', 'id']",-12,kontra
+[],0,netral
+"['awal', 'hari', 'semangat', 'selamat', 'senin', 'sobat', 'akal', 'sehat', 'salam', 'akal', 'sehat']",14,pro
+"['gibran', 'guru', 'rocky', 'gerung']",3,pro
+"['reaksi', 'gibran', 'rakabuming', 'singgung', 'rocky', 'gerung', 'oligarki', 'amat', 'politik', 'rocky', 'gerung', 'cerita', 'momen', 'temu', 'wali', 'kota', 'solo', 'putra', 'presiden']",0,netral
+"['aliansi', 'serikat', 'buruh', 'satu', 'ama', 'quen', 'of', 'longmarct', 'gerak', 'puncak', 'istana', 'negara', 'jakarta', 'sep']",-4,kontra
+"['rocky', 'gerung', 'temu', 'gibran', 'rakabuming', 'nggak', 'urus', 'politik', 'unggah', 'foto', 'media', 'sosial', 'tuai', 'sorot', 'publik', 'lantar', 'rocky', 'gerung', 'gibran', 'rakabuming']",6,pro
+"['tweet', 'bahas', 'penjajagan', 'pasang', 'mas', 'tweet', 'bang', 'manyambut', 'politik']",5,pro
+"['saksi', 'tarung', 'youtube', 'rgtv', 'channel', 'id', 'link']",-2,kontra
+"['saksi', 'tarung', 'youtube', 'rgtv', 'channel', 'id', 'link']",-2,kontra
+"['tamu', 'tebak', 'clue', 'pria', 'lahir', 'magetan', 'jawa', 'timur', 'hobi', 'muay', 'thai', 'jual', 'bakso']",5,pro
+"['saksi', 'tarung', 'youtube', 'rgtv', 'channel', 'id', 'link']",-2,kontra
+"['heran', 'sambang', 'gibran', 'rakabuming', 'rocky', 'gerung', 'benci', 'istana', 'amat', 'politik', 'rocky', 'gerung', 'cerita', 'momen', 'temu', 'wali', 'kota', 'solo', 'putra']",6,pro
+"['nicho', 'silalahi', 'sorot', 'luhut', 'orang', 'jawa', 'maksa', 'presiden', 'statemen', 'bahaya', 'nicho', 'silalahi', 'giat', 'media', 'sosial', 'aktivis', 'sorot', 'nyata']",-1,kontra
+"['saksi', 'tarung', 'youtube', 'rgtv', 'channel', 'id', 'link']",-2,kontra
+"['anies', 'pndah', 'dr', 'jkt', 'beliau', 'cm', 'pindah', 'dr', 'merdeka', 'selatan', 'merdeka', 'utara']",-2,kontra
+"['rocky', 'gerung', 'bukabukaan', 'obrol', 'jam', 'bareng', 'gibran']",0,netral
+"['buzzerp', 'visible', 'confusion']",0,netral
+"['rocky', 'gerung', 'anies', 'baswedan', 'legitimasi', 'presiden', 'rocky', 'gerung', 'nilai', 'gubernur', 'dki', 'jakarta', 'anies', 'baswedan', 'milik', 'legitimasi', 'presiden', 'republik', 'indonesia']",12,pro
+"['heboh', 'rumor', 'xi', 'jinping', 'kudeta', 'militer', 'china', 'tahan', 'rumah', 'tahan', 'rocky', 'gerung', 'saing', 'jenderal', 'presiden', 'china', 'xi', 'jinping', 'lapor', 'kudeta', 'tentara']",-1,kontra
+"['akrab', 'luhut', 'gibran', 'rocky', 'gerung', 'kuasa', 'dekat', 'rg', 'tweet']",3,pro
+"['rocky', 'gerung', 'datang', 'luhut', 'gibran', 'kuasa', 'dekat', 'id', 'tweet']",-4,kontra
+"['anies', 'yakin', 'kantor', 'jakarta', 'rocky', 'gerung', 'pindah', 'medan', 'merdeka', 'selatan', 'medan', 'merdeka', 'utara']",1,pro
+"['kunjung', 'rocky', 'gerung', 'gibran', 'pasti', 'cebongkampret']",3,pro
+"['quote', 'pan', 'minat', 'asuh', 'anies', 'baswedan', 'mending', 'asuh', 'partai', 'amanat', 'nasional', 'pan', 'peluang', 'anies', 'baswedan', 'partai', 'amanat', 'nasional', 'pan', 'selesai']",3,pro
+"['jarangjarang', 'lord', 'temu', 'tatap', 'indonesia', 'pasca', 'via']",3,pro
+"['tatap', 'indonesia', 'pasca', 'via']",1,pro
+"['tatap', 'indonesia', 'pasca', 'part', 'tonton', 'ditakedown', 'lengkap', 'klik', 'link']",-4,kontra
+"['bebas', 'bebas', 'freedom', 'natural', 'right', 'konstitusi', 'bebas', 'tugas', 'perintah', 'lindung', 'bebas']",-15,kontra
+"['gibran', 'sambang', 'rocky', 'gerung', 'bahas', 'tweet']",4,pro
+"['pesan', 'rocky', 'gerung', 'calon', 'presiden']",2,pro
+"['pesan', 'rocky', 'gerung', 'calon', 'presiden']",2,pro
+"['ramai', 'netizen', 'suara', 'pertalite', 'boros', 'cepat', 'habis', 'harga', 'coba', 'sobat', 'akal', 'sehat', 'simak', 'video']",-1,kontra
+"['quote', 'politik', 'bagi', 'habis', 'partai', 'demo', 'golput', 'tempo']",-9,kontra
+"['kritik', 'jokowi', 'gibran', 'idola', 'rocky', 'gerung', 'baca', 'lengkap']",-7,kontra
+"['cuit', 'gibran', 'rakabuming', 'viral', 'kunjung', 'diam', 'rocky', 'gerung', 'putra', 'jokowi', 'sebut', 'cebong', 'kampret']",-7,kontra
+"['putra', 'presiden', 'joko', 'widodo', 'gibran', 'rakabuming', 'raka', 'istilah', 'cebong', 'kampret', 'unjung', 'amat', 'politik', 'rocky', 'gerung']",1,pro
+"['masuk', 'angin', 'temu', 'om', 'luhut', 'pangeran', 'gibran']",0,netral
+"['tweet', 'ngobrol', 'tolong', 'cariin', 'cewe', 'doi', 'grogi', 'ama', 'cewe', 'ama', 'cowo', 'kekekekkek', 'ketemu', 'lemes']",-9,kontra
+"['temu', 'rocky', 'gerung', 'gibran', 'cebong', 'kampret', 'saudara', 'baca', 'lengkap']",-2,kontra
+"['gibran', 'kunjung', 'rocky', 'gerung', 'rumah', 'kirakira', 'bahas']",5,pro
+"['rocky', 'prediksi', 'anies', 'baswedan', 'ganggu']",-2,kontra
+"['cipta', 'hoax', 'bodoh']",-5,kontra
+"['tim', 'rocky', 'gerung', 'bocor', 'bahas', 'temu', 'gibran', 'sangka']",-4,kontra
+"['akun', 'twitter', 'pribadi', 'tweet', 'gibran', 'tanggap', 'cuit', 'mementionnya', 'saudara', 'cebong', 'kampret', 'dll']",-2,kontra
+"['cebong', 'cemas', 'kadrun', 'cemburu', 'link']",-8,kontra
+"['gibran', 'temu', 'rocky', 'gerung', 'siap', 'hadiah', 'sepatu', 'netizen']",7,pro
+"['rocky', 'gerung', 'bahas', 'nasib', 'anies', 'baswedan', 'pensiun', 'amat', 'politik', 'rocky', 'gerung', 'tanggap', 'anies', 'baswedan', 'jabat', 'gubernur', 'dki', 'jakarta']",2,pro
+"['sinyal', 'rocky', 'gerung', 'anies', 'ganggu', 'kuasa', 'sprindik', 'baca', 'lengkap']",0,netral
+"['sowan', 'rocky', 'gerung', 'gibran', 'tegas', 'cebong', 'kampret']",-5,kontra
+"['heboh', 'bapak', 'kritik', 'rocky', 'gerung', 'gibran', 'kawan', 'botol', 'minum', 'gagal', 'fokus', 'tweet']",-13,kontra
+"['kabar', 'gembira', 'gibran', 'rakabuming', 'raka', 'sayembara', 'komentar', 'lucu', 'hadiah', 'cengang', 'tweet']",1,pro
+"['gibran', 'rakabuming', 'temu', 'rocky', 'gerung', 'bahas', 'anak', 'presiden', 'jokowi', 'walikota', 'solo', 'gibran', 'rakabuming', 'raka', 'unggah', 'foto', 'amat', 'politik', 'rocky', 'gerung']",12,pro
+['lei'],0,netral
+['host'],0,netral
+"['desain', 'dungu']",-1,kontra
+"['jelang', 'pilpres', 'rocky', 'gerung', 'duga', 'anies', 'panggil', 'kpk']",4,pro
+"['temu', 'rocky', 'gerung', 'gibran', 'rakabuming', 'beliau', 'salah', 'idola', 'wali', 'kota', 'solo', 'gibran', 'rakabuming', 'unggah', 'foto', 'momen', 'temu', 'amat', 'politik']",4,pro
+"['janji', 'hadiah', 'gibran', 'tantang', 'netizen', 'tebak', 'obrol', 'bahas', 'rocky', 'gerung']",0,netral
+"['tweet', 'nawarin', 'om', 'operasi', 'katarak', 'yaa', 'bhuehuehue']",1,pro
+[],0,netral
+"['tatap', 'indonesia', 'pasca']",1,pro
+"['tatap', 'indonesia', 'pasca']",1,pro
+"['rocky', 'gerung', 'amat', 'politik', 'angkat', 'bicara', 'komentar', 'insiden', 'tembak', 'brigadir', 'palai', 'ferdy', 'sambo', 'simak', 'berita', 'lengkap']",-9,kontra
+"['jokowi', 'periode', 'menko', 'luhut', 'singgung', 'big', 'data']",-7,kontra
+"['luhut', 'binsar', 'pandjaitan', 'bincang', 'rocky', 'gerung', 'calon', 'presiden', 'jawa']",5,pro
+"['contoh', 'amerika', 'luhut', 'usul', 'sistem', 'pilpres', 'pilkada', 'indonesia', 'dievalusi']",-5,kontra
+"['tampar', 'rakyat']",0,netral
+"['tatap', 'indonesia', 'pasca']",1,pro
+"['tatap', 'indonesia', 'pasca']",1,pro
+"['parpol', 'serang', 'rebut', 'elektabilitas', 'jelang', 'pilpres', 'rocky', 'gerung', 'enak', 'nontonnya']",-2,kontra
+"['menko', 'marves', 'luhut', 'orang', 'jawa', 'mustahil', 'presiden']",4,pro
+"['tatap', 'indonesia', 'pasca', 'kalean', 'mesti', 'nonton']",-2,kontra
+"['tatap', 'indonesia', 'pasca', 'via']",1,pro
+[],0,netral
+[],0,netral
+"['menteri', 'koordinator', 'bidang', 'maritim', 'investasi', 'luhut', 'binsar', 'pandjaitan', 'usil', 'bintang', 'tamu', 'podcast', 'rocky', 'gerung', 'lengkap']",-2,kontra
+"['jaman', 'rezim', 'skrg', 'kaya', 'bapa', 'tiri', 'sinetron', 'kasih', 'makan', 'bsu', 'blt', 'dll', 'anakrakyat', 'udh', 'kenyang', 'trs', 'pecutin', 'rg']",3,pro
+"['sobat', 'akal', 'sehat', 'nanti', 'video', 'part', 'tayang', 'rabu', 'wib', 'salam', 'akal', 'sehat']",7,pro
+"['menteri', 'koordinator', 'bidang', 'maritim', 'investasi', 'luhut', 'binsar', 'pandjaitan', 'tamu', 'podcast', 'youtube', 'amat', 'politik', 'rocky', 'gerung', 'isu', 'bincang']",6,pro
+"['bodoh', 'kurikulum', 'etika', 'rocky', 'gerung']",0,netral
+"['tuju', 'rocky', 'saksi', 'lengkap', 'youtube', 'rgtv', 'channel', 'id', 'ajak', 'temu', 'link']",2,pro
